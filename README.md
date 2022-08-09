@@ -3,6 +3,9 @@
 <p align="center"> .</p>
 
 
+## 说明
+- 开发中,还未发布到packagist 暂时无法安装
+
 ## Installing
 
 ```shell
